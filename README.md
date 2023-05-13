@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TatianaT13
-- 👀 I’m interested in  développement Web
-- 🌱 I’m currently learning Web developement
+- 👀 I’m interested in AI developpement and Data
+- 🌱 I’m currently learning AI developpement 
 - 💞️ I’m looking to collaborate on  GIT
 - 📫 How to reach me : tarasenko.tetyana@yahoo.com
 
