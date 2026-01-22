@@ -1,14 +1,34 @@
-👋 Hi, I’m @TatianaT13!
+👋 Hi, I’m Tetyana (Tatiana) Tarasenko
 
-👀 Passionate about AI development and data analytics, I am currently pursuing a Master’s degree to become a project manager in artificial intelligence with Datascientest.com.
+🚀 Applied Machine Learning Engineer specialized in NLP, Speech AI, and ML platforms
 
-🌱 As an apprentice at APRR, I work on Business Intelligence projects using Snowflake and Power BI, which helps me gain clearer insights into the areas I might explore within AI.
+🎓 Currently completing a Master’s degree in Artificial Intelligence Engineering (DataScientest, RNCP Level 7)
 
-💡 I’m looking for collaboration opportunities on GitHub to exchange ideas and innovate in AI and BI.
+💼 Apprentice Data Scientist & AI Engineer at APRR (Autoroutes Paris-Rhin-Rhône)
+I work on production-grade data and ML pipelines using:
+- Snowflake & Snowpark
+- Power BI & data modeling (Bronze/Silver/Gold layers)
+- Python for ML and automation
+- Docker & containerized ML services
 
-📫 Reach me at: tarasenko.tetyana@yahoo.com
+🧠 Main interests:
+- Speech-to-speech translation systems (Whisper, M2M100, MMS-TTS)
+- NLP pipelines and document processing
+- MLOps and deployment of ML models in constrained environments
+- CI/CD for ML services and APIs
 
-<!---
-TatianaT13/TatianaT13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔬 I enjoy building end-to-end ML systems: from data ingestion and evaluation to deployment and monitoring.
+
+🤝 Open to collaboration on:
+- NLP & Speech AI projects
+- MLOps tools and pipelines
+- Data engineering + ML integration projects
+
+🌍 Languages: French, English, Ukrainian, Russian
+
+📫 Contact:
+- Email: tarasenko.tetyana@yahoo.com
+- Website: https://dev-ai.fr
+- LinkedIn: https://www.linkedin.com/in/tetyana-tarasenko-802112212
+
+✨ Always learning, always building.
