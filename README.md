@@ -14,4 +14,4 @@ I enjoy building real-world ML systems, from data to production.
 Open to collaboration on NLP, Speech AI and MLOps projects.
 
 🌍 Languages: French, English, Ukrainian, Russian
-🔗 https://dev-ai.fr | LinkedIn: tetyana-tarasenko-802112212 
+🔗LinkedIn: tetyana-tarasenko-802112212 
