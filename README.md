@@ -33,4 +33,4 @@ French · English · Ukrainian · Russian
 
 [tetyana-tarasenko.fr](https://tetyana-tarasenko.fr) · 
 [LinkedIn](https://linkedin.com/in/tetyana-tarasenko-802112212) · 
-contact@tarasenko.fr
+contact@tetyana-tarasenko.fr
