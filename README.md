@@ -47,20 +47,16 @@ Centralizes applications, extracts CV data, matches profiles to job offers. 90% 
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,flask,pytorch,sklearn,docker,mongodb,grafana,prometheus,nginx,git,github,githubactions,linux,bash&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,pytorch,sklearn,docker,mongodb,grafana,prometheus,nginx,git,github,githubactions,linux&theme=dark&perline=14" />
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TatianaT13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TatianaT13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaT13&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaT13&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/7F5AF0/TatianaT13" alt="contribution graph" />
 </p>
 
 <p align="center">
