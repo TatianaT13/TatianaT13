@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/matrix_banner.gif" width="100%" alt="Tetyana Tarasenko" />
+<img src="./assets/matrix_banner.gif?v=3" width="100%" alt="Tetyana Tarasenko" />
 
 </div>
 
